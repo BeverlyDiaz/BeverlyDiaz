@@ -5,7 +5,7 @@
   <a href="https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap">
   <img src="https://img.shields.io/badge/LinkedIn-d37556?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://apox-25.fr/Portfolio/Beverly/Portfolio/index.html" target="_blank">
+  <a href="https://apox-25.fr/Portfolio/Beverly/Portfolio/index.html">
   <img src="https://img.shields.io/badge/Mon%20Portfolio-d37556?style=for-the-badge"/>
   </a>
 </div>
