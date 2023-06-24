@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-d37556?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://apox-25.fr/Portfolio/Beverly/Portfolio/index.html">
-  <img src="https://img.shields.io/badge/Mon%20Portfolio-d37556?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/My%20Portfolio-d37556?style=for-the-badge"/>
   </a>
 </div>
 <h1 align="center">
