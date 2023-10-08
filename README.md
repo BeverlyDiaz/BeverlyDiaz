@@ -22,7 +22,7 @@ I am a student at EKOD <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHX
 - :round_pushpin: Le Mans, France
 - :books:  I'm self-taught person
 - :computer: I'm working on a Web Server project
-- :seedling: I’m currently learning Node.JS
+- :seedling: I’m currently learning Flutter 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Beverly_DIAZ-d37556?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap)
 
 
