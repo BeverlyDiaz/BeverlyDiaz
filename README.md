@@ -3,10 +3,10 @@
 </div>
 <div id="badges" align="center">
   <a href="https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap">
-  <img src="https://img.shields.io/badge/LinkedIn-d37556?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ac3b61?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://apox-25.fr/Portfolio/Beverly/Portfolio/index.html">
-  <img src="https://img.shields.io/badge/My%20Portfolio-d37556?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/My%20Portfolio-Ac3b61?style=for-the-badge"/>
   </a>
 </div>
 <h1 align="center">
@@ -23,7 +23,7 @@ I am a student at EKOD <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHX
 - :books:  I'm self-taught person
 - :computer: I'm working on a mobile application
 - :seedling: I’m currently learning Flutter 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Beverly_DIAZ-d37556?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Beverly_DIAZ-Ac3b61?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap)
 
 
 ### :hammer_and_wrench: Skills :
