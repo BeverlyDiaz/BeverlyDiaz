@@ -21,8 +21,7 @@ I am a student at EKOD <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHX
 - :cake: 23yo
 - :round_pushpin: Le Mans, France
 - :books:  I'm self-taught person
-- :computer: I'm working on a mobile application
-- :seedling: I’m currently learning Flutter 
+- :seedling: I’m currently learning React JS
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Beverly_DIAZ-Ac3b61?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap)
 
 
