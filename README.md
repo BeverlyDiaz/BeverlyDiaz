@@ -38,4 +38,4 @@ I am a student at EKOD <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHX
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeverlyDiaz&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeverlyDiaz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
