@@ -5,7 +5,7 @@
   <a href="https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap">
   <img src="https://img.shields.io/badge/LinkedIn-Ac3b61?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://apox-25.fr/Portfolio/Beverly/Portfolio/index.html">
+  <a href="https://beverlydiaz.com/">
   <img src="https://img.shields.io/badge/My%20Portfolio-Ac3b61?style=for-the-badge"/>
   </a>
 </div>
@@ -18,7 +18,7 @@
 
 I am a student at EKOD <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHXT/giphy.gif" width="30">
 
-- :cake: 23yo
+- :cake: 24yo
 - :round_pushpin: Le Mans, France
 - :books:  I'm self-taught person
 - :seedling: I’m currently learning React JS
