@@ -15,10 +15,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-
-I am a student at EKOD <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHXT/giphy.gif" width="30">
-
-- :cake: 24yo
+- :cake: 25yo
 - :round_pushpin: Le Mans, France
 - :books:  I'm self-taught person
 - :seedling: I’m currently learning React JS
