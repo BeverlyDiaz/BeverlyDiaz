@@ -18,7 +18,7 @@
 - :cake: 25yo
 - :round_pushpin: Le Mans, France
 - :books:  I'm self-taught person
-- :seedling: I’m currently learning React JS
+- :seedling: I’m currently learning Angular
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Beverly_DIAZ-Ac3b61?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/beverly-diaz?trk=public_profile_browsemap)
 
 
